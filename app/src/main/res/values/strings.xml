@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GFG App</string>
+    <string name="app_name">Animation</string>
     <string name="blink">BLINK</string>
     <string name="clockwise">ROTATE</string>
     <string name="fade">FADE</string>
